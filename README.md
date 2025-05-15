@@ -2,7 +2,7 @@
 - 👀 I’m interested in data scieence and website development...
 - 🌱 I’m currently learning numpy, matplotlib,pandas
 - i'm skilled  in pythons, javascript, html, css and react.vite
-- 💞️ I’m looking to collaborate on data science web development project 
+- 💞️ I’m looking to collaborate on data science and web development project 
 - 📫 How to reach me: jesufemitemitope@gmail.com
 
 <!---
