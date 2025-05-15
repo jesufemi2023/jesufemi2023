@@ -1,7 +1,8 @@
 - 👋 Hi, I’m jesufemi temitope
-- 👀 I’m interested in data scieence...
+- 👀 I’m interested in data scieence and website development...
 - 🌱 I’m currently learning numpy, matplotlib,pandas
-- 💞️ I’m looking to collaborate on data science project 
+- i'm skilled  in pythons, javascript, html, css and react.vite
+- 💞️ I’m looking to collaborate on data science web development project 
 - 📫 How to reach me: jesufemitemitope@gmail.com
 
 <!---
